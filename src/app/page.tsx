@@ -2,6 +2,7 @@ import Image from "next/image";
 import Accueil from "./acceuil/Accueil";
 import Header from "./acceuil/Header";
 import Link from "next/link";
+import Footer from "./acceuil/Footer";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <Link href="/home">Go to Home Page</Link>
     </div>
         <Accueil />
+        <Footer />
         </>
   );
 }

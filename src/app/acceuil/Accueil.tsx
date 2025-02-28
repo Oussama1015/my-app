@@ -1,12 +1,13 @@
 export default function Accueil() {
     return (
       <div>
-        <section className="bg-gray-50">
+        <section className="bg-black-50">
   <div className="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-screen lg:items-center">
     <div className="mx-auto max-w-xl text-center">
       <h1 className="text-3xl font-extrabold sm:text-5xl">
-        Understand User Flow.
-        <strong className="font-extrabold text-red-700 sm:block"> Increase Conversion. </strong>
+        Welcome to my portfolio☺️ .
+        I'm<strong className="font-extrabold text-blue-700 sm:block" > Oussama Chabbouh </strong>
+        <strong className="font-extrabold text-red-700 sm:block"> Front-End developper. </strong>
       </h1>
 
       <p className="mt-4 sm:text-xl/relaxed">
